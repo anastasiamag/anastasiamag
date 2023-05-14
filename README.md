@@ -9,7 +9,7 @@
 
 ---
 
-##### 💬 How to reach me:
+#### 💬 How to reach me:
 
 <p>
 <a href="https://www.linkedin.com/in/anastasia-magopoulou-44b996251/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
