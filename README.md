@@ -3,7 +3,7 @@
 **`Informatics Student, University of Western Macedonia, Kastoria`**
 
 - 📖 I’m currently working on my **Bachelor's Degree** on **Informatics**.
-- ✍️ I’m currently learning **React-Native**.
+- ✍️ I’m currently learning **Javascript**.
 - 👩‍💻 I’m currently working on **WordPress**.
 - 🌱 I'm also voluntarily investing time at the **IEEE Student Branch of Univesity of Western Macedonia,Kastoria** as **_Secretary_**.
 
